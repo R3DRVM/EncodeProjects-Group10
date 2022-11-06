@@ -2,72 +2,73 @@ who’s here?
 
 mitch
 redrum (danny)
-mitch
 
-mitch deployed contract ballot.sol
+->mitch
+
+-mitch deployed contract ballot.sol
 https://goerli.etherscan.io/tx/0x0a012ecb130f7087aabaaa437dc86cc92c4b59ecec4f6e1feab9ceb13d59cfe7
-mitch gave right to vote to 0x06263e1A856B36e073ba7a50D240123411501611
+-mitch gave right to vote to 0x06263e1A856B36e073ba7a50D240123411501611
 https://goerli.etherscan.io/tx/0xc83e0fcc3793322c473727d0e4be0f4ca73d22dab12292253c375351575e9cfe
-mitch gave right to vote to redrum
+-mitch gave right to vote to redrum
 https://goerli.etherscan.io/tx/0x6bf483040333c605a262b75f7af949c823ab609add2fbfe8100d8cc46d9aa3b2
-mitch gave right to vote to hali
+-mitch gave right to vote to hali
 https://goerli.etherscan.io/tx/0xe347da93aaec479ae778d9e2be78049dd34a453f4434e59cbcf1132fa2e35170
-mitch delegated vote from chairperson to redrum(danny)
+-mitch delegated vote from chairperson to redrum(danny)
 https://goerli.etherscan.io/tx/0xaef79f59e67897feb4e14be1192f3e5ad7a07e588c9750e8f01b9d848797b95a
 
-redrum
+->redrum
 
-Redrum tried to give himself voting rights on Mitch’s contract
+-Redrum tried to give himself voting rights on Mitch’s contract
 Reverted(Only Chairperson can give right to vote)
 tx hash: 0xb206d2e2fbd6cf404ecbd79efde9d3adfe3170a5c2fccadead289ec90571f1f7
 https://goerli.etherscan.io/tx/0xb206d2e2fbd6cf404ecbd79efde9d3adfe3170a5c2fccadead289ec90571f1f7
 
-redrum tried to vote on mitch’s contract
+-redrum tried to vote on mitch’s contract
 reverted (Has no right to vote)
 tx hash: 0x3afd81f8c36fb9458975ca6ac4e3c161d796ac20a284def9ce3c72ec25ab6723
 https://goerli.etherscan.io/tx/0x3afd81f8c36fb9458975ca6ac4e3c161d796ac20a284def9ce3c72ec25ab6723
 
-redrum tried to vote on mitch’s contract
+-redrum tried to vote on mitch’s contract
 reverted(Has no right to vote)
 tx Hash:
 0x687bd5fc3dbef9ee896298fde587cea5d00cb46f5b88bfafc003fbf1435a2edf
 https://goerli.etherscan.io/tx/0x687bd5fc3dbef9ee896298fde587cea5d00cb46f5b88bfafc003fbf1435a2edf
 
-redrum tried to vote on mitch’s contract (failed execution reverted)
+-redrum tried to vote on mitch’s contract (failed execution reverted)
 tx hash: 0x7138db661741c5239759c9fd8cd505a0d12235b9108c9743552e47ddf2b0f6ea
 https://goerli.etherscan.io/tx/0x7138db661741c5239759c9fd8cd505a0d12235b9108c9743552e47ddf2b0f6ea
 
-Deployed new Ballot Contract
+-Deployed new Ballot Contract
 Contract address: 0xF2299632a664E2d445ee11E42Af3B9AA7eFA2c84
 Tx hash:0x63c062f596c15817b80c7e5168937f2abf7fc8db257ba58a2a83afbf659eae14
 https://goerli.etherscan.io/tx/0x63c062f596c15817b80c7e5168937f2abf7fc8db257ba58a2a83afbf659eae14
 
-Gave voting rights to Mitch @ address 0x62Bb362d63f14449398B79EBC46574F859A6045D
+-Gave voting rights to Mitch @ address 0x62Bb362d63f14449398B79EBC46574F859A6045D
 tx hash:0x5fdaefb305c7f289e724519e379035b9cd9b955982d332dbd125f7675af072d8
 https://goerli.etherscan.io/tx/0x5fdaefb305c7f289e724519e379035b9cd9b955982d332dbd125f7675af072d8
 
-Tried to give voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7 (Execution failed/ wrong address)
+-Tried to give voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7 (Execution failed/ wrong address)
 tx hash: 0xb7bdbfcdb80e9a47b248dd7e402526067e87c1bffb1d929be56fdc142b493b59
 https://goerli.etherscan.io/tx/0xb7bdbfcdb80e9a47b248dd7e402526067e87c1bffb1d929be56fdc142b493b59
 
-Tried to give voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7 (Execution failed/wrong address)
+-Tried to give voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7 (Execution failed/wrong address)
 tx hash:0xf641e6ce3f730a6e8060b4921f1ae1e993dc077bb66481e8740d41f86067ab5c
 https://goerli.etherscan.io/tx/0xf641e6ce3f730a6e8060b4921f1ae1e993dc077bb66481e8740d41f86067ab5c
 
-Gave voting rights to Hali
+-Gave voting rights to Hali
 tx hash: 0x9f7e968ca3b67bf6bc3e1f9fc5c62f5ff0069296fbc6aabd08afd97eb13c5c94
 https://goerli.etherscan.io/tx/0x9f7e968ca3b67bf6bc3e1f9fc5c62f5ff0069296fbc6aabd08afd97eb13c5c94
 
-Deployed new Ballot contract (void, was not run with proposals)
+-Deployed new Ballot contract (void, was not run with proposals)
 contract address: 0xe99A28F7f643766E84024102517Af5191Cb0f379
 tx hash: 0x982b8187ae0217fef1f9cec7debfe9659af3d9627c4eb7f291b4498f96009fee
 https://goerli.etherscan.io/tx/0x982b8187ae0217fef1f9cec7debfe9659af3d9627c4eb7f291b4498f96009fee
 
-Gave voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7
+-Gave voting rights to Hali @ address 0x88476d163Bc73f465eFd937EE60855e1BB1c3Bb7
 tx hash: 0x77d35693a14f534f7e088b73095d80010aca2df33dbe96371541959c9d1da958
 https://goerli.etherscan.io/tx/0x77d35693a14f534f7e088b73095d80010aca2df33dbe96371541959c9d1da958
 
-Gave voting rights to mitch @ address 0x62Bb362d63f14449398B79EBC46574F859A6045D
+-Gave voting rights to mitch @ address 0x62Bb362d63f14449398B79EBC46574F859A6045D
 tx hash: 0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73c6490c77af8649732
 https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73c6490c77af8649732
 
