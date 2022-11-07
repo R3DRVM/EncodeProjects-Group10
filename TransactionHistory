@@ -64,8 +64,6 @@ tx hash: 0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
 https://goerli.etherscan.io/tx/0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
 
 
-
-
 -Deployed new Ballot contract (void, was not run with proposals)
 contract address: 0xe99A28F7f643766E84024102517Af5191Cb0f379
 tx hash: 0x982b8187ae0217fef1f9cec7debfe9659af3d9627c4eb7f291b4498f96009fee
@@ -79,3 +77,20 @@ https://goerli.etherscan.io/tx/0x77d35693a14f534f7e088b73095d80010aca2df33dbe963
 tx hash: 0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73c6490c77af8649732
 https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73c6490c77af8649732
 
+
+### findthefunction
+- deployed contract
+  tx hash: 0xd1c8cec84765675926db8b1ed757857a6a187f65424bd71cb2cf5e740ca79a9f
+  https://goerli.etherscan.io/address/0x6800ed23f8913948fb94cf3b17e4b697c2cc7f13
+- delegated to SophiaG20
+  tx hash: 0x10fea1edaa3a7d7be3a78ef5c3f4de97cd304fab3628b0ef90759cf8d5b4142c // Status failed
+- gave right to vote to SophiaG20
+  tx hash: 0xe0ec89944ad9a5f48dcd01c0b70e60a48ccf32c06afbd6e73289163c161e8148 
+  https://goerli.etherscan.io/tx/0xe0ec89944ad9a5f48dcd01c0b70e60a48ccf32c06afbd6e73289163c161e8148
+- voted
+  tx hash: 0x588c7d05000a2febfce28b35ba99018246e7c2d9331b19ca19ec8a91ecdd5a92 
+  https://goerli.etherscan.io/tx/0x588c7d05000a2febfce28b35ba99018246e7c2d9331b19ca19ec8a91ecdd5a92
+- voted on SophiaG20 contract
+  tx hash: 0xb1692cbc5b14d9e92e39b5b25b17e901ddef4584ee673398d5472dfcfaa55752 
+  https://goerli.etherscan.io/tx/0xb1692cbc5b14d9e92e39b5b25b17e901ddef4584ee673398d5472dfcfaa55752
+  
