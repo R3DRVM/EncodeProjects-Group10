@@ -85,8 +85,8 @@ https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73
 - delegated to SophiaG20
   tx hash: 0x10fea1edaa3a7d7be3a78ef5c3f4de97cd304fab3628b0ef90759cf8d5b4142c // Status failed
 - gave right to vote to SophiaG20
-  tx hash: 0xb1692cbc5b14d9e92e39b5b25b17e901ddef4584ee673398d5472dfcfaa55752  
-  https://goerli.etherscan.io/tx/0x513523cb3e7b267bd4f69d29add5473ec4fa879514f78f9b665884231099f408
+  tx hash: 0xe0ec89944ad9a5f48dcd01c0b70e60a48ccf32c06afbd6e73289163c161e8148 
+  https://goerli.etherscan.io/tx/0xe0ec89944ad9a5f48dcd01c0b70e60a48ccf32c06afbd6e73289163c161e8148
 - voted
   tx hash: 0x588c7d05000a2febfce28b35ba99018246e7c2d9331b19ca19ec8a91ecdd5a92 
   https://goerli.etherscan.io/tx/0x588c7d05000a2febfce28b35ba99018246e7c2d9331b19ca19ec8a91ecdd5a92
@@ -94,3 +94,16 @@ https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73
   tx hash: 0xb1692cbc5b14d9e92e39b5b25b17e901ddef4584ee673398d5472dfcfaa55752 
   https://goerli.etherscan.io/tx/0xb1692cbc5b14d9e92e39b5b25b17e901ddef4584ee673398d5472dfcfaa55752
   
+### Sophia Grzeskowiak-Amezquita
+- contracted created
+  txt hash: 0xd1c8cec84765675926db8b1ed757857a6a187f65424bd71cb2cf5e740ca79a9f
+  https://goerli.etherscan.io/tx/0xd1c8cec84765675926db8b1ed757857a6a187f65424bd71cb2cf5e740ca79a9f
+- gave right to vote findthefunction
+  txt hash: 0x513523cb3e7b267bd4f69d29add5473ec4fa879514f78f9b665884231099f408
+  https://goerli.etherscan.io/tx/0x513523cb3e7b267bd4f69d29add5473ec4fa879514f78f9b665884231099f408
+-voted on findthefunction contract "Fail with error 'Has no right to vote'"
+  txt hash:0xb156ee5e3a93a0c5e7fa8a9e0d343a47dcd5eeed4d1f08bb1d7a5f9472ca19d8 
+  https://goerli.etherscan.io/tx/0xb156ee5e3a93a0c5e7fa8a9e0d343a47dcd5eeed4d1f08bb1d7a5f9472ca19d8
+-Tried to vote again / success
+  txt hash:0x2c828a2ca3986a021ffde7723a18571f8186c654ce8adce5d95f62d56bedcc14
+  https://goerli.etherscan.io/tx/0x2c828a2ca3986a021ffde7723a18571f8186c654ce8adce5d95f62d56bedcc14
