@@ -2,7 +2,7 @@ who’s here?
 
 mitch
 redrum (danny)
-
+hali (phuong nguyen)
 ->mitch
 
 -mitch deployed contract ballot.sol
@@ -107,3 +107,9 @@ https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73
 -Tried to vote again / success
   txt hash:0x2c828a2ca3986a021ffde7723a18571f8186c654ce8adce5d95f62d56bedcc14
   https://goerli.etherscan.io/tx/0x2c828a2ca3986a021ffde7723a18571f8186c654ce8adce5d95f62d56bedcc14
+  
+###Hali
+-voted on mitch's contract
+txt hash: 0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
+https://goerli.etherscan.io/tx/0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
+
