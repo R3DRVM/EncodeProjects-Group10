@@ -1,2 +1,2 @@
-# EcnodeProjects-Group10
+# EncodeProjects-Group10
 Encode Bootcamp projects
