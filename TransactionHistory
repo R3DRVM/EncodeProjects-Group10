@@ -59,6 +59,13 @@ https://goerli.etherscan.io/tx/0xf641e6ce3f730a6e8060b4921f1ae1e993dc077bb66481e
 tx hash: 0x9f7e968ca3b67bf6bc3e1f9fc5c62f5ff0069296fbc6aabd08afd97eb13c5c94
 https://goerli.etherscan.io/tx/0x9f7e968ca3b67bf6bc3e1f9fc5c62f5ff0069296fbc6aabd08afd97eb13c5c94
 
+-Gave voting rights to auidiary
+tx hash: 0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
+https://goerli.etherscan.io/tx/0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
+
+
+
+
 -Deployed new Ballot contract (void, was not run with proposals)
 contract address: 0xe99A28F7f643766E84024102517Af5191Cb0f379
 tx hash: 0x982b8187ae0217fef1f9cec7debfe9659af3d9627c4eb7f291b4498f96009fee
