@@ -63,6 +63,10 @@ https://goerli.etherscan.io/tx/0x9f7e968ca3b67bf6bc3e1f9fc5c62f5ff0069296fbc6aab
 tx hash: 0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
 https://goerli.etherscan.io/tx/0x7be2ad6635450eb895c2030734ed05c4a098484d4056c7e1f1842d100b4485c8
 
+-delegated vote to mitch
+ts hash:0x9fccf23819c3c2319a5ddb83d3bf575af51af6473f67cae7f020342441c7d1fa
+https://goerli.etherscan.io/tx/0x9fccf23819c3c2319a5ddb83d3bf575af51af6473f67cae7f020342441c7d1fa
+
 
 -Deployed new Ballot contract (void, was not run with proposals)
 contract address: 0xe99A28F7f643766E84024102517Af5191Cb0f379
